@@ -8,23 +8,23 @@ body {
 }
 .menu1 {
     border: 2px solid white;
-    height: 60px;
-    background-color: rgb(143, 214, 143);
+    height: 80px;
+    background-color: rgb(247, 85, 85);
 }
 .menu2 {
     border: 2px solid white;
     height: 880px;
-    background-color: rgb(180, 143, 214);
+    background-color: rgb(207, 102, 102);
 }
 .navegador {
     border: 2px solid white;
     height: 60px;
-    background-color: rgb(195, 214, 143);
+    background-color: rgb(241, 153, 153);
 }
 .caja {
     border: 2px solid white;
     height: 825px;
-    background-color: rgb(214, 191, 143);
+    background-color: rgb(250, 159, 159);
 }
 
 .cajita {
@@ -33,7 +33,7 @@ body {
 .cajau {
     border: 2px solid white;
     height: 825px;
-    background-color: rgb(214, 191, 143);
+    background-color: rgb(248, 201, 201);
 }
 
 @media (min-width: 100px) and (max-width: 1199px) {
